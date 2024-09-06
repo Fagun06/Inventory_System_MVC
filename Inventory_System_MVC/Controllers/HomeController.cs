@@ -13,7 +13,11 @@ namespace Inventory_System_MVC.Controllers
 			_logger = logger;
 		}
 
-		public IActionResult Index()
+        public IActionResult index()
+        {
+            return View();
+        }
+        public IActionResult Dashboard()
 		{
 			return View();
 		}
