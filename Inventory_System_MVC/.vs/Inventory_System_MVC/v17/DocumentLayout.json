@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|c:\\users\\mdfag\\desktop\\inventory_mvc\\inventory_system_mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|c:\\users\\mdfag\\desktop\\inventory_mvc\\inventory_system_mvc\\models\\account\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|solutionrelative:models\\account\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|c:\\users\\mdfag\\desktop\\inventory_mvc\\inventory_system_mvc\\data\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|solutionrelative:data\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|c:\\users\\mdfag\\desktop\\inventory_mvc\\inventory_system_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|c:\\users\\mdfag\\desktop\\inventory_mvc\\inventory_system_mvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|c:\\users\\mdfag\\desktop\\inventory_mvc\\inventory_system_mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|c:\\users\\mdfag\\desktop\\inventory_mvc\\inventory_system_mvc\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|solutionrelative:views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|c:\\users\\mdfag\\desktop\\inventory_mvc\\inventory_system_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|c:\\users\\mdfag\\desktop\\inventory_mvc\\inventory_system_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|c:\\users\\mdfag\\desktop\\inventory_mvc\\inventory_system_mvc\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC20F900-8B3E-47A7-8378-7A4FCD028233}|Inventory_System_MVC.csproj|solutionrelative:models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +67,136 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Data\\InventoryDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\InventoryDbContext.cs",
+              "ToolTip": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Data\\InventoryDbContext.cs",
+              "RelativeToolTip": "Data\\InventoryDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:00:18.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:57:24.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T17:13:41.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:34:22.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAADsAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T16:34:05.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T16:30:42.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwCQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T15:26:42.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:26:30.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Models\\Account\\Register.cs",
+              "RelativeDocumentMoniker": "Models\\Account\\Register.cs",
+              "ToolTip": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Models\\Account\\Register.cs",
+              "RelativeToolTip": "Models\\Account\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:25:42.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Models\\Equipment.cs",
+              "RelativeDocumentMoniker": "Models\\Equipment.cs",
+              "ToolTip": "C:\\Users\\mdfag\\Desktop\\Inventory_MVC\\Inventory_System_MVC\\Models\\Equipment.cs",
+              "RelativeToolTip": "Models\\Equipment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:58:16.969Z",
+              "EditorCaption": ""
             }
           ]
         }
